@@ -7,3 +7,7 @@ This is a squirrel:
 
 I think this is a better squirrel!
 ![squirrel](http://static4.wikia.nocookie.net/__cb20051212042014/uncyclopedia/images/0/05/Squirrel_dance.gif)
+
+## Contact
+
+Ryan Briones <ryan@devbootcamp.com> for information
